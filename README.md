@@ -90,7 +90,20 @@
 </p>
 
 ---
+<!-- Snake Animation (Dark mode) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
+
+<!-- Profile views counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aniket-g-3101&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
+</div>
+
+---
 ## 🎯 Cybersecurity Philosophy
 
 > "Data is the new gold; Security is the vault."  
