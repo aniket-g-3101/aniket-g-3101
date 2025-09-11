@@ -47,22 +47,22 @@ hobbies: ["Coding", "Research", "Problem Solving", "Tech Innovation"]
 ## 🛠️ Technology Arsenal
 
 ### 💻 Programming Languages
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&theme=dark" height="60"/>
 </p>
 
 ### 🚀 Frameworks & Libraries  
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=django,react,nodejs,bootstrap&theme=dark" height="60"/>
 </p>
 
 ### 🗄️ Databases & Tools
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="60"/>
 </p>
 
 ### ⚙️ DevOps & Tools
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,bash,postman,vscode&theme=dark" height="60"/>
 </p>
 
