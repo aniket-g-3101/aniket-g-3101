@@ -14,7 +14,7 @@
 ## 🎯 About Me
 
 <div align="center">
-  <img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" alt="Coding GIF" width="400" height="268" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 ```yaml
@@ -79,10 +79,11 @@ hobbies: ["Coding", "Research", "Problem Solving", "Tech Innovation"]
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-g-3101&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" height="200px"/>
 </div>
-
+<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-g-3101&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </div>
+-->
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -139,11 +140,11 @@ hobbies: ["Coding", "Research", "Problem Solving", "Tech Innovation"]
 
 ## 📈 Contribution Activity
 
-<!-- GitHub Activity Graph -->
+<!-- GitHub Activity Graph 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-g-3101&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </div>
-
+-->
 <!-- GitHub Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
