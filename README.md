@@ -72,18 +72,19 @@ hobbies: ["Coding", "Research", "Problem Solving", "Tech Innovation"]
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniket-g-3101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-g-3101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aniket-g-3101&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=10"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-g-3101&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-g-3101&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" height="200px"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-g-3101&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph&radius=10"/>
 </div>
-<!--
+
+<!-- Additional GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-g-3101&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniket-g-3101&theme=radical&hide_border=true"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aniket-g-3101&theme=radical&utc_offset=5.5&hide_border=true"/>
 </div>
--->
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -97,7 +98,7 @@ hobbies: ["Coding", "Research", "Problem Solving", "Tech Innovation"]
         <h3 align="center">🌤️ Weather App</h3>
         <div align="center">  
           <a href="https://github.com/aniket-g-3101/weather-app" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-g-3101&repo=weather-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-g-3101&repo=weather-app&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_radius=10"/>
           </a>
         </div>
       </td>
@@ -105,14 +106,13 @@ hobbies: ["Coding", "Research", "Problem Solving", "Tech Innovation"]
         <h3 align="center">💬 Chat Application</h3>
         <div align="center">  
           <a href="https://github.com/aniket-g-3101/Chat_Application" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-g-3101&repo=Chat_Application&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-g-3101&repo=Chat_Application&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_radius=10"/>
           </a>
         </div>
       </td>
     </tr>
   </table>
 </div>
-
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -140,14 +140,14 @@ hobbies: ["Coding", "Research", "Problem Solving", "Tech Innovation"]
 
 ## 📈 Contribution Activity
 
-<!-- GitHub Activity Graph 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniket-g-3101&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</div>
--->
 <!-- GitHub Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<!-- Alternative Snake Animation if above doesn't work -->
+<div align="center">
+  <img src="https://github.com/aniket-g-3101/aniket-g-3101/blob/output/github-contribution-grid-snake.svg" alt="Snake eating commits" />
 </div>
 
 <!-- Divider -->
@@ -156,7 +156,7 @@ hobbies: ["Coding", "Research", "Problem Solving", "Tech Innovation"]
 ## 💡 Random Dev Quote 
 
 <div align="center"> 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" /> 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" /> 
 </div>
 
 <!-- Divider -->
