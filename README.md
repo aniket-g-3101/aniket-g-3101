@@ -145,10 +145,6 @@ hobbies: ["Coding", "Research", "Problem Solving", "Tech Innovation"]
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-<!-- Alternative Snake Animation if above doesn't work -->
-<div align="center">
-  <img src="https://github.com/aniket-g-3101/aniket-g-3101/blob/output/github-contribution-grid-snake.svg" alt="Snake eating commits" />
-</div>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
