@@ -4,7 +4,7 @@
 </p>
         
 <!-- Enhanced Typing Animation -->
-<p align="center">  
+<p align="center">    
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+there!+👋+Welcome+to+my+profile;I'm+Aniket+Gavali+%7C+Web+Developer;Building+scalable+%26+secure+applications;Always+learning+new+technologies+📚;Let's+create+something+amazing+together!+✨">
 </p>
 
